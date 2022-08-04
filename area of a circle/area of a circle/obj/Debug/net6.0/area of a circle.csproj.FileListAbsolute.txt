@@ -1,0 +1,15 @@
+D:\coding-and-programming-things\LaunchCode\csharp\csharp-data-types-studio\area of a circle\area of a circle\bin\Debug\net6.0\area of a circle.exe
+D:\coding-and-programming-things\LaunchCode\csharp\csharp-data-types-studio\area of a circle\area of a circle\bin\Debug\net6.0\area of a circle.deps.json
+D:\coding-and-programming-things\LaunchCode\csharp\csharp-data-types-studio\area of a circle\area of a circle\bin\Debug\net6.0\area of a circle.runtimeconfig.json
+D:\coding-and-programming-things\LaunchCode\csharp\csharp-data-types-studio\area of a circle\area of a circle\bin\Debug\net6.0\area of a circle.dll
+D:\coding-and-programming-things\LaunchCode\csharp\csharp-data-types-studio\area of a circle\area of a circle\bin\Debug\net6.0\area of a circle.pdb
+D:\coding-and-programming-things\LaunchCode\csharp\csharp-data-types-studio\area of a circle\area of a circle\obj\Debug\net6.0\area of a circle.csproj.AssemblyReference.cache
+D:\coding-and-programming-things\LaunchCode\csharp\csharp-data-types-studio\area of a circle\area of a circle\obj\Debug\net6.0\area of a circle.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding-and-programming-things\LaunchCode\csharp\csharp-data-types-studio\area of a circle\area of a circle\obj\Debug\net6.0\area of a circle.AssemblyInfoInputs.cache
+D:\coding-and-programming-things\LaunchCode\csharp\csharp-data-types-studio\area of a circle\area of a circle\obj\Debug\net6.0\area of a circle.AssemblyInfo.cs
+D:\coding-and-programming-things\LaunchCode\csharp\csharp-data-types-studio\area of a circle\area of a circle\obj\Debug\net6.0\area of a circle.csproj.CoreCompileInputs.cache
+D:\coding-and-programming-things\LaunchCode\csharp\csharp-data-types-studio\area of a circle\area of a circle\obj\Debug\net6.0\area of a circle.dll
+D:\coding-and-programming-things\LaunchCode\csharp\csharp-data-types-studio\area of a circle\area of a circle\obj\Debug\net6.0\refint\area of a circle.dll
+D:\coding-and-programming-things\LaunchCode\csharp\csharp-data-types-studio\area of a circle\area of a circle\obj\Debug\net6.0\area of a circle.pdb
+D:\coding-and-programming-things\LaunchCode\csharp\csharp-data-types-studio\area of a circle\area of a circle\obj\Debug\net6.0\area of a circle.genruntimeconfig.cache
+D:\coding-and-programming-things\LaunchCode\csharp\csharp-data-types-studio\area of a circle\area of a circle\obj\Debug\net6.0\ref\area of a circle.dll
